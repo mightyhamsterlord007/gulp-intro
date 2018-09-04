@@ -10,5 +10,8 @@
 <body>
     <img class="image-size" src="./images/dog.svg" />
     <h1>Yo what up class</h1>
+
+    <script src="/dist/js/vendor.min.js"></script>
+
 </body>
 </html>
